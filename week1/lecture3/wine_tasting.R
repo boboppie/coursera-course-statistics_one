@@ -23,7 +23,7 @@ names(ratings) # list the name of variables in ratings, returns the headers
 layout(matrix(c(1,2,3,4), 2, 2, byrow = TRUE)) # create 2x2 matrix for layout
 hist(ratings$WoopWoop, xlab = "Rating")
 hist(ratings$RedTruck, xlab = "Rating")
-hist(ratings$HobNob, xlab = "Rating")
+hist(ratings$HobNob,   xlab = "Rating")
 hist(ratings$FourPlay, xlab = "Rating")
 
 # Learn more about functions
