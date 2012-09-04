@@ -1,6 +1,44 @@
 Histograms and Descriptions
 ===============
 
+*Dataset*
+----------
+*Wine tasting*: there are four types of californian wines (columns), each has 30 ratings (scale 1 - 10)
+
+file: [supplemental-stats1_ex01.txt](https://raw.github.com/boboppie/coursera-course-statistics_one/master/week1/lecture3/supplemental-stats1_ex01.txt)
+
+                  RedTruck                  WoopWoop	HobNob	FourPlay
+                  1	1	1	1
+                  2	1	2	2
+                  2	1	2	5
+                  3	2	3	3
+                  3	2	3	5
+                  3	2	3	7
+                  4	3	4	4
+                  4	3	4	4
+                  4	3	4	7
+                  4	4	4	6
+                  5	4	5	5
+                  5	4	5	5
+                  5	5	5	5
+                  5	5	5	5
+                  5	5	5	5
+                  6	6	6	6
+                  6	6	6	6
+                  6	6	6	6
+                  6	7	6	6
+                  6	7	6	6
+                  7	7	7	7
+                  7	8	7	7
+                  7	8	5	7
+                  7	8	4	7
+                  8	9	4	8
+                  8	9	6	8
+                  8	9	8	8
+                  9	10	6	9
+                  9	10	9	9
+                  10	10	10	10
+
 *Descriptions*
 ----------
                   var  n mean   sd median trimmed  mad min max range  skew kurtosis   se
