@@ -24,3 +24,4 @@ Write an R script that does the following:
 
 *Histogram*
 ----------
+![ggplot](https://raw.github.com/boboppie/coursera-course-statistics_one/master/week1/assignment/plots/ggplot.png)
