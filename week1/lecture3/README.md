@@ -63,4 +63,4 @@ These are density plots with a red line crossing the mean
 
 *Notes*
 ----------
-[From histogram to Probability Density Function (*Pdf*)](http://www.ohio.edu/people/tc285202/288-L2a.pdf)
+In terms of discrete distribution, turing histogram to PMF (probability mass function) plot is easily done by normalizing the frequency (frequency/N or divided by sum). However, to get a PDF (probability density function) plot, should you must *divide by the area*. Read more on this [thread](http://stackoverflow.com/questions/5320677/how-to-normalize-a-histogram-in-matlab).
