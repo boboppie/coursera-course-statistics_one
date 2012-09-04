@@ -53,8 +53,10 @@ file: [supplemental-stats1_ex01.txt](https://raw.github.com/boboppie/coursera-co
 <br>
 ![Rplot](https://raw.github.com/boboppie/coursera-course-statistics_one/master/week1/lecture3/plots/Rplot.png)
 
-**ggplot2**:
+[**ggplot2**] [1]:
 <br>
 ![ggplot](https://raw.github.com/boboppie/coursera-course-statistics_one/master/week1/lecture3/plots/ggplot.png)
 
 These are density plots with a red line crossing the mean
+
+[1]: http://wiki.stdout.org/rcookbook/Graphs/Plotting%20distributions%20(ggplot2)/
