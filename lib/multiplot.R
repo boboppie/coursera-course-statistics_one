@@ -1,4 +1,4 @@
-multiplot <- function(..., plotlist=NULL, cols) {
+d <- function(..., plotlist=NULL, cols) {
   require(grid)
   
   # Make a list from the ... arguments and plotlist
@@ -22,5 +22,4 @@ multiplot <- function(..., plotlist=NULL, cols) {
     curCol = (i-1) %% plotCols + 1
     print(plots[[i]], vp = vplayout(curRow, curCol ))
   }
-  
 }

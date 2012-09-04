@@ -10,3 +10,5 @@ h3 <- ggplot(wm, aes(x=pre.wm.v)) + geom_histogram(binwidth=2,colour="white") + 
 h4 <- ggplot(wm, aes(x=post.wm.v)) + geom_histogram(binwidth=2,colour="white") + facet_grid(cond ~ .)
 
 multiplot(h1, h2, h3, h4, cols=2)
+
+describe(wm)
