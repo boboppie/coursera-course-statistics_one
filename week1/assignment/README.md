@@ -21,6 +21,12 @@ Write an R script that does the following:
 
 *Description*
 ----------
+              var   n  mean    sd median trimmed   mad min max range  skew kurtosis   se
+    cond*       1 200  1.50  0.50    1.5    1.50  0.74   1   2     1  0.00    -2.01 0.04
+    pre.wm.s    2 200 16.94  4.93   18.0   17.62  2.97   1  26    25 -1.54     2.71 0.35
+    post.wm.s   3 200 23.18  4.94   23.0   23.39  4.45  11  37    26 -0.31     0.12 0.35
+    pre.wm.v    4 200 15.22  8.93   15.0   14.83  8.90   0  45    45  0.48     0.05 0.63
+    post.wm.v   5 200 17.47 12.06   16.0   16.92 11.86   0  52    52  0.34    -0.62 0.85
 
 *Histogram*
 ----------
