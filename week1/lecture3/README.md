@@ -60,3 +60,7 @@ file: [supplemental-stats1_ex01.txt](https://raw.github.com/boboppie/coursera-co
 These are density plots with a red line crossing the mean
 
 [1]: http://wiki.stdout.org/rcookbook/Graphs/Plotting%20distributions%20(ggplot2)/
+
+*Notes*
+----------
+[From histogram to Probability Density Function (*Pdf*)](http://www.ohio.edu/people/tc285202/288-L2a.pdf)
