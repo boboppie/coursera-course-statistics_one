@@ -11,4 +11,12 @@ h4 <- ggplot(wm, aes(x=post.wm.v)) + geom_histogram(binwidth=2,colour="white") +
 
 multiplot(h1, h2, h3, h4, cols=2)
 
+# Description
+# split the data by condition
+wm_splited <- split(wm, wm$cond) # created a list
+wm_splited_des <- wm_splited$des # design
+wm_splited_aer <- wm_splited$aer # aerobic
+
 describe(wm)
+describe(wm_splited_des)
+describe(wm_splited_aer)
