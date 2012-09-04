@@ -1,5 +1,8 @@
 # Statistics One, Lecture 3, example script
 # Read data, plot histograms, get descriptives
+
+# in case the package is not installed, run:
+## install.packages("psych")
 library(psych)
 
 # Read the table into a dataframe called ratings
