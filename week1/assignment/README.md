@@ -12,9 +12,15 @@ Also, assume that we measured both verbal and spatial working memory capacity be
 
 * wm.v
 * wm.s
-Fictional data are available in the file: [DAA.01.txt]() Right click on link to save the file to your computer.
+Fictional data are available in the file: [DAA.01.txt](https://raw.github.com/boboppie/coursera-course-statistics_one/master/week1/assignment/DAA.01.txt) Right click on link to save the file to your computer.
 
 Write an R script that does the following:
 
 1. Plots histograms for all variables (therefore 8 histograms)
 2. Provides descriptive statistics for all variables
+
+*Description*
+----------
+
+*Histogram*
+----------
