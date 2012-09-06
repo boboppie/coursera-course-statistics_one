@@ -9,10 +9,10 @@ Designed sports training (des)
 <br>
 Aerobic training (aer)
 
-Also, assume that we measured both verbal and spatial working memory capacity before and after training, using two separate measures:
+Also, assume that we measured both **V**erbal and **S**patial **W**orking **M**emory capacity before and after training, using two separate measures:
 
-* wm.v
-* wm.s
+* wm.v (verbal)
+* wm.s (spatial)
 
 Fictional data are available in the file: [DAA.01.txt](https://raw.github.com/boboppie/coursera-course-statistics_one/master/week1/assignment/DAA.01.txt) Right click on link to save the file to your computer.
 
