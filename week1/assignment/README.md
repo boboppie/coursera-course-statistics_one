@@ -53,3 +53,7 @@ Aerobic training:
 *Histogram*
 ----------
 ![ggplot](https://raw.github.com/boboppie/coursera-course-statistics_one/master/week1/assignment/plots/ggplot.png)
+
+*Density*
+----------
+![Rplot](https://raw.github.com/boboppie/coursera-course-statistics_one/master/week1/assignment/plots/Rplot.png)
