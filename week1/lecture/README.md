@@ -51,11 +51,11 @@ file: [supplemental-stats1_ex01.txt](https://raw.github.com/boboppie/coursera-co
 ----------
 **normal R plot**:
 <br>
-![Rplot](https://raw.github.com/boboppie/coursera-course-statistics_one/master/week1/lecture3/plots/Rplot.png)
+![Rplot](https://raw.github.com/boboppie/coursera-course-statistics_one/master/week1/lecture/plots/Rplot.png)
 
 [**ggplot2**] [1]:
 <br>
-![ggplot](https://raw.github.com/boboppie/coursera-course-statistics_one/master/week1/lecture3/plots/ggplot.png)
+![ggplot](https://raw.github.com/boboppie/coursera-course-statistics_one/master/week1/lecture/plots/ggplot.png)
 
 These are density plots with a red line crossing the mean
 
