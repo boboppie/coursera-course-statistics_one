@@ -175,3 +175,11 @@ RSS(residul sum of squares) 216.36 -> 203.41
     age          1.0000000   0.2826635 -0.1258528
     activeyears  0.2826635   1.0000000  0.3365433
     endurance   -0.1258528   0.3365433  1.0000000
+    
+## Prediction
+
+    predictors <- endur[2:3]
+    predicted <- predict.lm(model3.z, predictors)
+    cor(endur[4], predicted) # 0.4078414
+    
+The correlation between the observed outcome Y and Y predicted by the model is approximately: 0.40    
