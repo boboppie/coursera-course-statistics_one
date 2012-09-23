@@ -153,6 +153,8 @@
     ---
     Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1 
     
+RSS(residul sum of squares) 240.13 -> 203.41
+    
 ### Model-2.z ~ Model-3.z
 
     Analysis of Variance Table
@@ -164,3 +166,5 @@
     2    242 203.41  1     12.95 15.406 0.0001131 ***
     ---
     Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+RSS(residul sum of squares) 216.36 -> 203.41
