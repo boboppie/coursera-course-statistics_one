@@ -168,3 +168,10 @@ RSS(residul sum of squares) 240.13 -> 203.41
     Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 RSS(residul sum of squares) 216.36 -> 203.41
+
+## Correlations
+
+                       age activeyears  endurance
+    age          1.0000000   0.2826635 -0.1258528
+    activeyears  0.2826635   1.0000000  0.3365433
+    endurance   -0.1258528   0.3365433  1.0000000
