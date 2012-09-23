@@ -16,8 +16,8 @@
 
 ![endurence-activeyears](https://raw.github.com/boboppie/coursera-course-statistics_one/master/week3/lecture/plots/endurance_activeyears.png)
 
-## Model Summary
-### Model-1 Endurance ~ Age
+## Model Summary (unstandardized)
+### Model-1 Endurance =  33.15667 + -0.13472(Age)
 
     Call:
     lm(formula = endur$endurance ~ endur$age)
@@ -37,7 +37,7 @@
     Multiple R-squared: 0.01584,  Adjusted R-squared: 0.01179 
     F-statistic: 3.911 on 1 and 243 DF,  p-value: 0.04911 
     
-### Model-2 Endurance ~ Active Years
+### Model-2 Endurance = 18.3921 + 0.7625(Active Years)
 
     Call:
     lm(formula = endur$endurance ~ endur$activeyears)
@@ -57,7 +57,7 @@
     Multiple R-squared: 0.1133,  Adjusted R-squared: 0.1096 
     F-statistic: 31.04 on 1 and 243 DF,  p-value: 6.697e-08
 
-### Model-1 Endurance ~ Age + Active Years
+### Model-1 Endurance ~ 29.3952 + -0.2571(Age) + 0.9163(Active Years)
 
     Call:
     lm(formula = endur$endurance ~ endur$age + endur$activeyears)
