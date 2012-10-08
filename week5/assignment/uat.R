@@ -7,6 +7,7 @@
 # one of two conditions: WM training or SP training. Further assume that each student 
 # was tested on the UAT before and after training (so we have pre- and post-training 
 # scores on the UAT).
+##########################################
 
 library(psych)
 
