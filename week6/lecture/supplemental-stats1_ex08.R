@@ -6,7 +6,7 @@ library(psych)
 library(car)
 source(file="eta_squared.R")
 
-e1sr <- read.table("STATS1.EX.08.txt", header = T)
+e1sr <- read.table("supplemental-stats1_ex08.txt", header = T)
 
 # Omnibus analysis is a 3x2 mixed factorial with task and stimuli as the independent variables and serial recall as the dependent variable.  The three levels of task are word span, reading span, and story span.  The two levels of stimuli are phonologically similar and phonologically dissimilar.
 

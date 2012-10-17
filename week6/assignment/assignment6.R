@@ -1,7 +1,10 @@
+###################################################
+# Week 6 Assignment
+##################################################
 
 library(psych)
 library(car)
-source(file="eta_squared.R")
+source(file="../../lib/eta_squared.R")
 
 a5 <- read.table("DDA.05.txt", header = T)
 
